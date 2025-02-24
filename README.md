@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🤠 Tenho 20 anos<br>🔭 Estagiando atualmente na CBM INFORMATICA<br>🌱 Estou estudando DSM na FATEC VOTORANTIM<br>⚡ Gosto muito de aprender coisas novas ^_^
+🤠 Tenho 21 anos<br>🔭 Estagiando atualmente na CBM INFORMATICA<br>🌱 Estou estudando DSM na FATEC VOTORANTIM<br>⚡ Focado no momento em DEV WEB 
 
 
 ## 🌐 Socials:
@@ -10,13 +10,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-# 📊 GitHub Statsus:
-![](https://github-readme-stats.vercel.app/api?username=FabricioSoica&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FabricioSoica&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioSoica&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 Troféis do GitHub
-![](https://github-profile-trophy.vercel.app/?username=FabricioSoica&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FabricioSoica&icon=2&color=8)](https://visitcount.itsvg.in)
