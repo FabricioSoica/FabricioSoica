@@ -1,4 +1,4 @@
-# 🤓☝ Sobre Mim:
+# 🟢 Sobre Mim:
 Sobre mim:<br>💻-Full Stack Developer<br>👯-1.3 anos de experiência em estágio de desenvolvimento<br>🤝-Trabalho atualmente na CBM ASSESSORIA E INFORMATICA<br>📚-Tecnólogo em Desenvolvimento de Software Multiplataforma FATEC-VOTORANTIM 4/6<br>⚡ -Interessado a me desenvolver cada dia mais profissionalmente! 
 
 
