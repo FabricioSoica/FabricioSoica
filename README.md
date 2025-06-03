@@ -1,7 +1,7 @@
 ![room](https://64.media.tumblr.com/85e28b2c1364a2084bd7a6727add810a/bf7dea713bb52297-ac/s1280x1920/0f03a27d7d10f150b8abba46376358eb72e1bd89.gif)
 
 # 🟢 Sobre Mim:
-Sobre mim:<br>💻-Full Stack Developer<br>👯-1.3 anos de experiência em estágio de desenvolvimento<br>🤝-Trabalho atualmente na CBM ASSESSORIA E INFORMATICA<br>📚-Tecnólogo em Desenvolvimento de Software Multiplataforma FATEC-VOTORANTIM 4/6<br>⚡ -Interessado a me desenvolver cada dia mais profissionalmente! 
+Sobre mim:<br>💻-Full Stack Junior Developer<br>👯-1.3 anos de experiência em estágio de desenvolvimento<br>🤝-Trabalho atualmente na CBM ASSESSORIA E INFORMATICA<br>📚-Tecnólogo em Desenvolvimento de Software Multiplataforma FATEC-VOTORANTIM 4/6<br>⚡ -Interessado a me desenvolver cada dia mais profissionalmente! 
 
 
 ## 🌐 Redes Sociais:
