@@ -1,4 +1,4 @@
-# 🟢 Sobre Mim:
+# 🟢 Sobre Mim: 
 Sobre mim:<br>💻-Full Stack Junior Developer<br>💾-1.6 anos de experiência em desenvolvimento Web FullStack<br>📚-Tecnólogo em Desenvolvimento de Software Multiplataforma FATEC-VOTORANTIM 5/6<br>🎓-Tec. Administração pela Etec de Piedade<br>⚡ -Interessado a me desenvolver cada dia mais profissionalmente! 
 
 
