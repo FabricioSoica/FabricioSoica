@@ -4,7 +4,7 @@
   * 💾 2 years of experience in Full-Stack Web Development
   * 📚 Pursuing a Technologist's Degree in Multiplatform Software Development at FATEC-VOTORANTIM (5th/6th semester)
   * 🎓 Technical Certificate in Business Administration from Etec de Piedade
-  * ⚡ Eager for continuous professional growth and development\!
+  * ⚡ Eager for continuous professional growth and development\! 
 
 ## 🌐 Connect with me:
 
