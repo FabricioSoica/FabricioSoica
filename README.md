@@ -7,7 +7,7 @@
   * 💻 Jr. Full Stack Developer
   * 💾 +2 anos de experiancia com dev web fullstack
   * 📚 Cursando Desenvolvimento de Software Multiplataformas na Fatec (6° semestre)
-  * ⚡ Sempre em busca de novos conhecimentos e ferramestas para melhorar o dia à dia!
+  * ⚡ Sempre em busca de novos conhecimentos e ferramestas para melhorar o dia à dia! 
 
 ## 🌐 Connect with me:
 
