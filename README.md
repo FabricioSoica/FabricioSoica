@@ -3,7 +3,7 @@
 </h1>
 
 # 🟢 About Me: 
-
+ 
   * 💻 Jr. Full Stack Developer
   * 💾 +2 anos de experiancia com dev web fullstack
   * 📚 Cursando Desenvolvimento de Software Multiplataformas na Fatec (6° semestre)
