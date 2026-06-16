@@ -5,9 +5,9 @@
 # 🟢 About Me: 
   
   * 💻 Jr. Full Stack Developer (em busca do sonhado pleno rs)
-  * 💾 +2 anos de experiancia com dev web fullstack
+  * 💾 Caminhando para 3 anos de experiancia na área
   * 📚 Finalizando Desenvolvimento de Software Multiplataformas na Fatec (6° semestre) 
-  * ⚡ Sempre em busca de novos conhecimentos e ferramestas para melhorar o dia à dia! 
+  * ⚡ Sempre em busca de novos conhecimentos e ferramestas para melhorar o desempenho no dia à dia! 
 
 ## 🌐 Connect with me:
 
