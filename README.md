@@ -4,9 +4,9 @@
  
 # 🟢 About Me:  
   
-  * 💻 Full Stack Web Engineer  
+  * 💻 Full Stack Web Developer  
   * 💾 +3 anos de experiência na área!
-  * 📚 Tecnologo em Desenvolvimento de Software Multiplataformas na Fatec
+  * 📚 Tec. Desenvolvimento de Software Multiplataformas pela Fatec-VO
   * ⚡ Sempre em busca de novos conhecimentos e ferramestas para melhorar o desempenho no dia à dia! 
 
 ## 🌐 Connect with me:
